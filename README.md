@@ -9,7 +9,7 @@
 [6. Выводы](.README.md#Выводы) 
 
 ### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыток. Решение замещено в файле: [baseline.ipynb](baseline.ipynb)
+Угадать загаданное компьютером число за минимальное число попыток. Решение замещено в файлах: [baseline.ipynb](baseline.ipynb), [game_v3(binary search).py](game_v3(binary search).py), [bonus(nn).py](bonus(nn).py))
 
 :arrow_up:[к оглавлению](_)
 
